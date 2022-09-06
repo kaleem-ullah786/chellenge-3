@@ -1,0 +1,92 @@
+body{
+    background-color:hsl(204, 43%, 93%); ;
+    font-family: 'Karla', sans-serif;
+    text-align: center; }
+
+    h2{ color:  hsl(179, 62%, 43%);
+       font-size: 1.3rem;
+font-weight: 600;
+    }
+    h3{
+        font-size: 1.1rem;
+        color:  hsl(210, 20%, 94%);
+        font-weight: 500;
+    }
+    p{
+        color: hsl(217, 18%, 35%);
+          font-size: 0.9rem; 
+          font-weight: 500;
+    
+    }
+    .top-pera{
+        color:hsl(218, 22%, 67%);
+    }
+    .price{
+        color: #fff;
+        font-size: 1.9rem;
+        letter-spacing: 2px;
+    }
+.heading{
+color: hsl(71, 73%, 54%);
+font-weight: 600;
+
+
+}
+    .top{
+        background-color:#fff;
+        width: 600px;
+        height: 200px;
+        margin: 8% 30% 0;
+        border-radius: 8px 8px 0 0;
+        text-align: left;
+        padding: 40px 50px;
+        line-height: 2;
+        
+    }
+
+    .mid{
+    width: 300px;
+    height: 250px; 
+    background-color: #4ABEBD;
+    border-radius: 0 0 0 8px;
+    text-align: left;
+    padding: 30px 30px;
+    }
+
+  
+
+    .bottom{
+        text-align: left;
+        width: 300px;
+        height: 250px; 
+        background-color:#2FB0B3;
+        border-radius: 0 0 8px 0;
+        padding: 30px 50px;
+    }
+        .row{
+            margin-left: 411px;
+            border: 0px solid;
+        }
+        .btn{
+
+            font-family: Nunito;
+            font-weight: 358;
+            font-size: 14px;
+            color: #fff;
+            background-color: #bfdf32;
+            padding: 11px 62px;
+            border: solid #bfdf32 2px;
+            box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
+            border-radius: 8px 6px;
+            transition : 1000ms;
+            transform: translateY(0);
+            }
+            .btn:hover{
+
+                transition : 1000ms;
+                padding: 10px 50px;
+                transform : translateY(-0px);
+                background-color: #fff;
+                color: #0066cc;
+                border: solid 2px #0066cc;
+                }
